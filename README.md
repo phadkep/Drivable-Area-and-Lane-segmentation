@@ -62,7 +62,7 @@ dataset = load_dataset("drive/dataset")
 
 
 ## Training
-https://github.com/pijush2022/Lane_detection/blob/master/Submission/Update%202/Update_2.ipynb
+https://github.com/phadkep/Drivable-Area-and-Lane-segmentation/blob/main/Submission/Update%202/Update_2.ipynb
 
 ### Transformation while Training
 
@@ -103,7 +103,7 @@ This transformation simulates changes in the camera's perspective, including rot
 
 ## Deployment
 
-- The model is deployed on Github Action with CI/CD. click [here](https://github.com/pijush2022/Lane_detection.git) to go there.
+- The model is deployed on Github Action with CI/CD. click [here](https://github.com/phadkep/Drivable-Area-and-Lane-segmentation) to go there.
 - You can deploy the model locally as well. There are three methods to run the model they are listed below.
   
 
